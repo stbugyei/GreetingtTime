@@ -20,11 +20,9 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
- 
 }
 
 .BgImage{
-
   justify-content: center;
   color: beige;
   display: flex;
@@ -36,13 +34,13 @@
 }
 
 .Time{
-  font-size: 100px;
+  font-size: 80px;
   display: flex;
   justify-content: center;
 }
 
 .Greetings{
-  font-size: 100px;
+  font-size: 50px;
 }
 
 .App-link {
