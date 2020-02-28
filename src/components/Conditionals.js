@@ -37,7 +37,6 @@ export class Conditionals extends Component {
 
   render() {
     return (
-
       <div className='BgImage' style={{ backgroundImage: `url(${this.getStyle()})` }}>
         <div className = 'Greetings'>{this.Greetings()}</div>
         <div className='Time'><DayBreak /></div>
